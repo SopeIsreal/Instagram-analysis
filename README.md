@@ -14,6 +14,6 @@ Analysis of instagram reach over a period of time to get useful insights that dr
 
 
 # Conclusion:
-A. From the above we can ascertain that the best days to post content are on Tuesday, Sunday and Monday respectively according to the bar chart above.
-B. The month of September is the month where content gets the highest reach as seen from the line chart above.
-C. Therefore Tuesdays, Sundays and Mondays of september should be maximized to get enough reach that in turn will hopefully generate    desired end results.     
+1. From the above we can ascertain that the best days to post content are on Tuesday, Sunday and Monday respectively according to the bar chart above.
+2. The month of September is the month where content gets the highest reach as seen from the line chart above.
+3. Therefore Tuesdays, Sundays and Mondays of september should be maximized to get enough reach that in turn will hopefully generate    desired end results.     
