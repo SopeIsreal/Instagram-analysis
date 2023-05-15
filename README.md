@@ -1,7 +1,7 @@
 # Instagram-analysis
 Analysis of instagram reach over a period of time to get useful insights that drive decision making
 
-#Steps
+# Steps
 1. Import the necessary libraries
 2. Read the data
 3. Convert the dtype of the date column to datetime
